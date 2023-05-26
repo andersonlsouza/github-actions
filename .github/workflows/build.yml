@@ -14,4 +14,4 @@ jobs:
         run: npm install
 
       - name: Run TypeScript Build
-        run: npm build
+        run: npm run build
